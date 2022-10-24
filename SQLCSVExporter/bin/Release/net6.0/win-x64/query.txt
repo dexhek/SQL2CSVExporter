@@ -1,0 +1,1 @@
+SELECT CONCAT(TRIM(alias), ',', TRIM(cd_ar)) AS 'ALIAS,CODICE' FROM ARAlias

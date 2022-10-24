@@ -1,0 +1,16 @@
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\SQL2CSVExporter.exe
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\SQL2CSVExporter.deps.json
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\SQL2CSVExporter.runtimeconfig.json
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\SQL2CSVExporter.dll
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\System.Data.SqlClient.dll
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\sni.dll
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.csproj.AssemblyReference.cache
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.AssemblyInfoInputs.cache
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.AssemblyInfo.cs
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.csproj.CoreCompileInputs.cache
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.csproj.CopyComplete
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.dll
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\refint\SQL2CSVExporter.dll
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\SQL2CSVExporter.genruntimeconfig.cache
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\obj\Release\net6.0\win-x64\ref\SQL2CSVExporter.dll

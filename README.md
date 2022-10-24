@@ -1,4 +1,4 @@
-# SQL2CSVExporter
+# SQLCSVExporter
 
 Simple code to export the results of a query to a csv file, useful when you have to temporary work on different programs with the same dataset.
 

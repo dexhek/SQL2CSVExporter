@@ -1,0 +1,1 @@
+D:\source\repos\dexhek\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\publish\SQLCSVExporter.exe

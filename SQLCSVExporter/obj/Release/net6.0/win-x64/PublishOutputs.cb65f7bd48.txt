@@ -1,0 +1,1 @@
+C:\Users\Utente09.LASERPOINT\source\repos\SQLCSVExporter\SQLCSVExporter\bin\Release\net6.0\win-x64\publish\SQLCSVExporter.exe
